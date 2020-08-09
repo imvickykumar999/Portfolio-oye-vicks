@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/index.css">
+    <title>Dipendra Paudel</title>
+
+</head>
+<body>
+
+    <header class="heading">
+        <button><a href="details/home.html" target="container">Home</a></button>
+
+        <button><a href="details/about.html" target="container">About</a></button>
+
+        <button><a href="details/skills.html" target="container">Skills</a></button>
+
+        <button><a href="details/contact.html" target="container">Contact</a></button>
+
+    </header>
+
+    <iframe src="details/home.html" name="container" class="container">
+        <p>Your browser does not support content</p>
+
+
+    </iframe>
+
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>
